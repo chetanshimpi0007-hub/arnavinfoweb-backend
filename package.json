@@ -8,6 +8,7 @@
   },
   "scripts": {
     "start": "node server.js",
+    "render-build": "npm install --build-from-source=sqlite3",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
